@@ -7,4 +7,4 @@ jobs:
       - name: code checkout
         uses: actions/checkout@v4
       - name: composite action
-        uses: ./.github/actions/demo-action
+        uses: ./.github/actions/composite

@@ -1,6 +1,0 @@
-name: Say Hello!
-description: Prints a Hello Message
-runs:
-  using: "composite"
-  steps:
-    - run: echo "Hello from the composite action"
